@@ -1,7 +1,7 @@
 # High-Power-Inverting-Buck-Boost-Converter
 
 # Project Description
-This project focuses on designing and simulating a high-power inverting buck-boost converter circuit using the TL494 IC, which regulates and controls output voltage and current in switch-mode power supplies. The design emphasizes the use of readily available discrete components, thermal management, and optimal routing techniques.
+This project focuses on designing and simulating a high-power inverting buck-boost converter circuit using the TL494 IC, which regulates and controls output voltage and current in switch-mode power supplies. The design emphasizes the use of easily accessible components, heat regulation, and efficient routing techniques.
 
 A 2-layer PCB layout and schematic were created in Altium Designer, incorporating advanced features like the Design Rule Check and a comprehensive Bill of Materials to ensure manufacturability and reliability. The circuit was prototyped and tested on a breadboard, providing valuable hands-on experience with hardware debugging and implementation challenges.
 
@@ -14,7 +14,7 @@ The created project was based on the Circuit Digest project titled "High Power I
 The original project link is listed below:
 https://circuitdigest.com/electronic-circuits/high-power-inverting-buck-boost-converter-circuit-design-with-tl494
 
-I recreated the original author's schematic on Altium Designer, and utilized it to design a custom PCB. The schematic and footprint files are shown below.
+I recreated the original designer's schematic on Altium Designer, and utilized it to create a custom PCB board. The schematic and footprint files are shown below.
 
 
 Circuit schematic of Buck boost Converter design
@@ -33,6 +33,13 @@ Altium pcb board design - Bill of Materials
 
 Altium pcb board design - Design Rule verification Report
 ![Buck boost converter altium pcb board layout - design rule verification report](https://github.com/user-attachments/assets/9803f840-840d-425e-a1a0-6f8d7bd6291a)
+
+Breadboard Implementaion of Circuit
+![20250122_095719](https://github.com/user-attachments/assets/3d0d0882-3246-4160-b983-45e19a7a7408)
+
+
+
+
 
 
 
