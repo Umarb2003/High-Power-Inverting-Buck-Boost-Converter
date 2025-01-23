@@ -6,7 +6,7 @@ This project focuses on designing and simulating a high-power inverting buck-boo
 A 2-layer PCB layout and schematic were created in Altium Designer, incorporating advanced features like the Design Rule Check and a comprehensive Bill of Materials to ensure manufacturability and reliability. The circuit was prototyped and tested on a breadboard, providing valuable hands-on experience with hardware debugging and implementation challenges.
 
 Key features include PWM-based control for efficient voltage regulation, support for both step-up and step-down voltage operation, and detailed thermal considerations for high-power applications.
-High power Inverting Buck-Boost Converter Circuit based on the TL494 IC.
+
 
 # Project Details
 
