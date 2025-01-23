@@ -1,15 +1,14 @@
 # High-Power-Inverting-Buck-Boost-Converter
 
-# Project Discription
-This project involves the design and simulation of a high-power inverting buck-boost converter circuit utilizing the TL494 IC. The TL494 is central to the circuit, enabling precise regulation and control of output voltage and current, making it ideal for various switch-mode power supply applications. The project demonstrates efficient PWM-based control for stepping up or stepping down voltage to meet load requirements.
+# Project Description
+This project focuses on designing and simulating a high-power inverting buck-boost converter circuit using the TL494 IC, which regulates and controls output voltage and current in switch-mode power supplies. The design emphasizes the use of readily available discrete components, thermal management, and optimal routing techniques.
 
-The design prioritizes practical implementation by using readily available discrete components while addressing crucial factors such as thermal management, optimal routing, and reliability in high-power scenarios. A comprehensive 2-layer PCB layout and schematic were created in Altium Designer, leveraging advanced features such as the Design Rule Check (DRC) to verify compliance with manufacturing standards. A detailed Bill of Materials (BOM) was also prepared to streamline component procurement.
+A 2-layer PCB layout and schematic were created in Altium Designer, incorporating advanced features like the Design Rule Check and a comprehensive Bill of Materials to ensure manufacturability and reliability. The circuit was prototyped and tested on a breadboard, providing valuable hands-on experience with hardware debugging and implementation challenges.
 
-The circuit was prototyped on a breadboard for testing and debugging, providing insights into real-world hardware challenges and solutions. Key components include the IRFZ44N MOSFET, a fast recovery diode, and high-capacitance electrolytic capacitors to manage ripple and transient responses effectively. The design achieves inverting functionality, with the ability to convert positive input voltages to regulated negative output voltages, showcasing its versatility in power electronics applications.
-
-This project not only highlights the theoretical and practical aspects of power electronics but also emphasizes the importance of systematic design, thermal considerations, and manufacturability in developing reliable and efficient circuits for real-world use.
-
+Key features include PWM-based control for efficient voltage regulation, support for both step-up and step-down voltage operation, and detailed thermal considerations for high-power applications.
 High power Inverting Buck-Boost Converter Circuit based on the TL494 IC.
+
+# Project Details
 
 The created project was based on the Circuit Digest project titled "High Power Inverting Buck-Boost Converter Circuit Design with TL494 IC". 
 The original project link is listed below:
