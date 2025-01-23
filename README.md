@@ -14,7 +14,7 @@ The created project was based on the Circuit Digest project titled "High Power I
 The original project link is listed below:
 https://circuitdigest.com/electronic-circuits/high-power-inverting-buck-boost-converter-circuit-design-with-tl494
 
-I recreated the original designer's schematic on Altium Designer, and utilized it to create a custom PCB board. The schematic and footprint files are shown below.
+I recreated the original designer's schematic on Altium Designer, and utilized it to create a custom PCB board. The schematic and pcb files are shown below along with the Bill of materials and Design verification report.
 
 
 Circuit schematic of Buck boost Converter design
